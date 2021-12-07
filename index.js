@@ -1,3 +1,5 @@
+module.exports = Phrase;
+
 
 // Reverse order of a string
 function reverse(string) {
